@@ -82,7 +82,7 @@ fields:
   config:
     min: 
     max: 
-  hidden: true
+  hidden: false
 - name: layout
   label: Layout
   type: text
