@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: fadfdsafasdfad
+  description: fdsafdsafdsafdasfd
+  icon: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
@@ -25,9 +28,12 @@ hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: false
+blocks: []
 menu:
   navigation:
     identifier: _index
     weight: 1
+published: false
 
 ---
