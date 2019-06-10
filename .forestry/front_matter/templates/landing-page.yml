@@ -73,6 +73,16 @@ fields:
   name: show_staff
   label: Show Staff?
   description: Enables a staff section that lists each person in the People collection
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - person
+  - project
+  config:
+    min: 
+    max: 
+  hidden: true
 - name: layout
   label: Layout
   type: text
